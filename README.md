@@ -105,7 +105,7 @@ kotlinx-coroutines-test
 🚀 Instrucciones de uso
 
 Clonar el repositorio: https://github.com/sagamagus/MediaCatalog
-Abrir el proyecto en Android Studio
+Abrir el proyecto en Android Studio (Necesario minimo Panda pues ocupa AGP 9)
 Sincronizar Gradle
 Ejecutar la aplicación en:
 Emulador Android API 26+
@@ -113,11 +113,11 @@ Dispositivo físico
 
 🛠 Guía de compilación
 Requisitos
-Android Studio Hedgehog o superior
+Android Studio Panda o superior
 JDK 17
 Kotlin 2.x
 KSP
-Gradle compatible con AGP actual
+Gradle compatible con AGP 9
 Compilar desde Android Studio
 Sync Project
 Build → Rebuild Project
